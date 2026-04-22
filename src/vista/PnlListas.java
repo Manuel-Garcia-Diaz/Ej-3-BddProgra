@@ -260,6 +260,9 @@ public class PnlListas extends javax.swing.JPanel {
             e.printStackTrace();
         }
     }//GEN-LAST:event_cmbCatActionPerformed
+//private void cargarProductosLista (int idLista){
+
+//ArrayList<ListaProductos> Lista=operaciones.listaproductos(idLista)};
 
     private void btnAgregarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAgregarActionPerformed
         int indexList = cmbListas.getSelectedIndex();
